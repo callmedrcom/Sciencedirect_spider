@@ -1,13 +1,8 @@
 # sciencedirect_spider
-## Download paper from sciencedirect.
-make sure you have access to the database! 
+The sciencedirect have hide its id and class name, so this code using selenium to simulate the browser.
+## main function:
+1. auto download paper from sciencedirect, this funtion needs your institute to subscribe this source.
+2. auto gather information from sciencedirect, only needs internet connection.
 
-this code can not download paper without the access to your intitute.
-
-make sure your are using English language, or the file name may be wrong
-
-if you like this coder, please give me starssssssssss
-
-## seaching information from sciendirect.
-
-This function will be upload soon!
+## about using
+just like searching paper in sciencedirect, input your keywords
